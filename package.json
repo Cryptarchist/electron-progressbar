@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/AndersonMamede/electron-progressbar",
   "devDependencies": {
-    "electron": "^1.7.5"
+    "electron": "^5.0.8"
   },
   "dependencies": {
-    "extend": "^3.0.1"
+    "extend": "^3.0.2"
   },
   "readmeFilename": "README.md"
 }
